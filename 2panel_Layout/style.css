@@ -1,0 +1,50 @@
+.wrapper{
+	width: 1022px;
+	height:460px;
+	border:1px solid red;
+	margin:10px;
+}
+
+header {
+
+	height:98px;
+	border:1px solid black;
+
+	margin: 10px;
+	text-align: center;
+}
+#leftpanel,#rightpanel{
+	width: 478px;
+	height: 198px;
+	border: 1px solid black;
+	margin: 10px;
+	float: left;
+
+}
+#rightpanel{
+	width: 488px !important;
+	margin-left: 0px !important;
+}
+
+
+.content{
+
+	height:218px;
+	border:1px solid black;
+	margin:10px;
+
+}
+footer{
+
+
+	height:98px;
+	border:1px solid black;
+	margin:10px;
+	text-align: center;
+
+}
+
+
+
+
+
